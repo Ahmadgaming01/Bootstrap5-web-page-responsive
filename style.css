@@ -1,0 +1,48 @@
+body{
+    background-color: #4741AF;
+}
+
+nav{
+    text-emphasis-color: aliceblue;
+}
+
+/* .logo{
+    margin-top: 50px;
+} */
+
+.main.menu ul li >a {
+    font-size: 30px;
+    font-weight: 1000;
+    display: inline-block;
+    text-transform: capitalize;
+    padding: 42px 0;
+    position: relative;
+
+}
+
+
+.row{
+    margin-top: 50px;
+}
+.text{
+    margin-top: 150px;
+    margin-left: 50px;
+}
+.textmain{
+    background-color:#4741AF ;
+
+}
+h1{
+    color: aliceblue;
+    font-size: 55px;
+}
+p{
+    color: aliceblue;
+   
+}
+.link1{
+    border-radius: 30px;
+}
+h3{
+    color:blue;
+}
